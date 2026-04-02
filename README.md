@@ -5,14 +5,14 @@
 
 - 💬 Ask me about **Web & App Development, Freelancing**
 
-- 📫 How to reach me **christianrobertmarcelino03@gmail.com** | [Twitter/X](x.com/_hashzero) | [Instagram](https://www.instagram.com/_10.06208)
+- 📫 How to reach me **christianrobertmarcelino03@gmail.com** | [Twitter/X](x.com/_hashzero) | [Instagram](https://www.instagram.com/_chanuuiu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_hashzero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chano" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tianxmv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chano" height="30" width="40" /></a>
 <a href="https://fb.com/chanomnmnm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chano" height="30" width="40" /></a>
-<a href="https://instagram.com/_10.06208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chano" height="30" width="40" /></a>
+<a href="https://instagram.com/_chanuuiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chano" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools i use:</h3>

@@ -11,4 +11,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chanuuiu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=chanuuiu&icon=0&color=2)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=chanuuiu&icon=0)](https://visitcount.itsvg.in)

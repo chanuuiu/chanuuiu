@@ -1,4 +1,4 @@
-
+<img src="vxcore.gif" width="100%">
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-christianrobertmarcelino27%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:christianrobertmarcelino27@gmail.com)
 

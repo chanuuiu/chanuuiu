@@ -1,5 +1,7 @@
 <img src="vxcore.gif" width="100%"></img>
 ## 🌐 Socials:
+![vxcore](https://img.shields.io/badge/Powered%20By-vxcore™-black?style=for-the-badge&logo=https://raw.githubusercontent.com/chanuuiu/chanuuiu/main/vxcore.gif&logoColor=white)
+
 [![Gmail](https://img.shields.io/badge/Gmail-christianrobertmarcelino27%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:christianrobertmarcelino27@gmail.com)
 
 

@@ -1,6 +1,6 @@
 <img src="vxcore.gif" width="100%"></img>
 ![vxcore](https://img.shields.io/badge/Powered%20By-vxcore™-black?style=for-the-badge&logo=https://raw.githubusercontent.com/chanuuiu/chanuuiu/main/vxcore.gif&logoColor=white)
-![Discord Bot](https://img.shields.io/discord/1498009029031493645?label=vxcore™% Discord&color=5865F2&style=for-the-badge&logo=discord)
+![Discord Bot](https://img.shields.io/discord/1498009029031493645?label=vxcore™&color=5865F2&style=for-the-badge&logo=discord)
 
 
 ## 🌐 Socials:

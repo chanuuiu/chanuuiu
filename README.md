@@ -1,5 +1,5 @@
 <img src="vxcore.gif" width="100%"></img>
-[![vxcore](https://img.shields.io/badge/Powered%20By-vxcore™-black?style=for-the-badge&logo=https://raw.githubusercontent.com/chanuuiu/chanuuiu/main/vxcore.gif&logoColor=white)
+![vxcore](https://img.shields.io/badge/Powered%20By-vxcore™-black?style=for-the-badge&logo=https://raw.githubusercontent.com/chanuuiu/chanuuiu/main/vxcore.gif&logoColor=white)
 [![dcbot](https://img.shields.io/discord/1498009029031493645?label=vxcore™%20&color=FF0029&style=for-the-badge&logo=discord&logoColor=white)](https://vxcore.info)
 
 

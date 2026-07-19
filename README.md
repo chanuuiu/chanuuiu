@@ -1,6 +1,6 @@
 
 <img src="vxcore.gif" width="100%"></img>
-![vxcore](https://img.shields.io/badge/Powered%20By-vxcore™-black?style=for-the-badge&logo=https://raw.githubusercontent.com/chanuuiu/chanuuiu/main/vxcore.gif&logoColor=white)
+![arccore](https://img.shields.io/badge/Powered%20By-Arc-Core™-black?style=for-the-badge&logo=https://raw.githubusercontent.com/chanuuiu/chanuuiu/main/vxcore.gif&logoColor=white)
 
 
 

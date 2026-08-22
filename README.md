@@ -1,6 +1,6 @@
 
-<img src="arcdevsio.mp4" width="100%"></img>
-![arccore](https://img.shields.io/badge/Powered%20By-ArcDevs.io-black?style=for-the-badge&logo=https://raw.githubusercontent.com/chanuuiu/chanuuiu/main/arcdevsio.mp4&logoColor=white)
+<img src="arcdevsio.gif" width="100%"></img>
+![arccore](https://img.shields.io/badge/Powered%20By-ArcDevs.io-black?style=for-the-badge&logo=https://raw.githubusercontent.com/chanuuiu/chanuuiu/main/arcdevsio.gif&logoColor=white)
 
 
 

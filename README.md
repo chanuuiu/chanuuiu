@@ -1,4 +1,4 @@
-<img src="https://github.com/x64chanu/arcdevs.gif" width="100%"></img>
+<img src="https://github.com/x64chanu/x64chanu/blob/57026d67eb031be124cc4d024f719db7e91d4dfd/arcdevs.gif" width="100%"></img>
 ---
 
 ![arccore](https://img.shields.io/badge/Powered%20By-ArcDevs.io-black?style=for-the-badge&logo=https://raw.githubusercontent.com/chanuuiu/chanuuiu/main/arcdevsio.gif&logoColor=white)
